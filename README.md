@@ -1,2 +1,2 @@
 # proje
-hello
+hello i am sina
